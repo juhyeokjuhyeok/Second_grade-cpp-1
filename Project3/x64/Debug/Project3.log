@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\Kim\Desktop\Project3\test.cpp(52,27): error C2683: 'dynamic_cast': 'Person'은(는) 다형 형식이 아닙니다.
+C:\Users\Kim\Desktop\Project3\test.cpp(5,7): message : 'Person' 선언을 참조하십시오.
